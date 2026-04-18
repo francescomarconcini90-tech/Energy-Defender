@@ -1,0 +1,6 @@
+{
+  "name": "Energy Defender",
+  "description": "Un gioco arcade educativo sul metabolismo e l'energia, pronto per il deployment su Netlify.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
